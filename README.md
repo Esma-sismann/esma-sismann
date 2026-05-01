@@ -4,7 +4,7 @@
 
 Python ile güvenlik araçları geliştiriyor ve işletim sistemi temelleri (OS Internals) üzerine çalışmalar yapıyorum. 
 
-- 🔭 **Güncel Projelerim:** [VulnScope](https://github.com/Esma-sismann/vulnscope-web-scanner) (Web Scanner) & [Port Scanner](https://github.com/Esma-sismann/port-scanner).
+- 🔭 **Güncel Projelerim:** [VulnScope](https://github.com/Esma-sismann/vulnscope) (Web Scanner) & [Port Scanner](https://github.com/Esma-sismann/port-scanner).
 - 🌱 **Öğrenme Yolculuğum:** Şu an Malware Analysis ve Network Security konularına odaklanıyorum.
 - ⚡ **Yetenekler:** Python, C, SQL, Scapy, Git, Linux.
 
