@@ -10,7 +10,7 @@ Python ile güvenlik araçları geliştiriyor ve işletim sistemi temelleri (OS 
 
 ---
 
-### 🛠️ Teknolojik Araç Kutum
+
 ### 🛠️ Teknolojik Araç Kutum
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
