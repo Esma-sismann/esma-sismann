@@ -27,7 +27,7 @@ Python ile güvenlik araçları geliştiriyor ve işletim sistemi temelleri (OS 
 ![Esma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esma-sismann&show_icons=true&theme=radical)
 ## ✍️ Author & Maintainer
 
-**Esma Şişman** *Yönetim Bilişim Sistemleri Öğrencisi | Siber Güvenlik & Yazılım Geliştirme*
+**Esma Şişman**  Siber Güvenlik & Yazılım Geliştirme*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esma-sismann)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esma-şişman-7747963a8)
